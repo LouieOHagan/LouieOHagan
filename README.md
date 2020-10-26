@@ -7,12 +7,11 @@
 My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
 
 ## 🗂️ MY WORK
-***Note:** My personal website/portfolio is currently in development HOWEVER in the meantime, feel free to take a look at some of my work below* 😄
 <details open>
 <summary><em><b>Note:</b> My personal website/portfolio is currently in development HOWEVER in the meantime, feel free to take a look at some of my work below</em> 😄</summary>
   <ul>
     <li>
-      <h3>My Furry Friend Website</h3>
+      <h3>🐕 My Furry Friend Website</h3>
       <details>
         <summary><b>Click to Toggle Details</b></summary>
           <br>
@@ -30,7 +29,7 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
       </details>
     </li>
     <li>
-      <h3>Simple Weather Website</h3>
+      <h3>🌥️ Simple Weather Website</h3>
       <details>
         <summary><b>Click to Toggle Details</b></summary>
           <br>
@@ -48,7 +47,7 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
       </details>
     </li>
     <li>
-      <h3>Covid Companion Website</h3>
+      <h3>🧬 Covid Companion Website</h3>
       <details>
         <summary><b>Click to Toggle Details</b></summary>
           <br>
@@ -66,7 +65,7 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
       </details>
     </li>
     <li>
-      <h3>NNB E-Commerce Website</h3>
+      <h3>🔌 NNB E-Commerce Website</h3>
       <details>
         <summary><b>Click to Toggle Details</b></summary>
           <br>
@@ -84,7 +83,7 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
       </details>
     </li>
     <li>
-      <h3>Boutique Ado E-Commerce Website</h3>
+      <h3>👕 Boutique Ado E-Commerce Website</h3>
       <details>
         <summary><b>Click to Toggle Details</b></summary>
           <br>
