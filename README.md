@@ -5,6 +5,9 @@
 # Welcome to my GitHub Profile, I'm Louie! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">🦥
 
 My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
+- 🎓 Graduated with a Distinction from the Code Institute with a Diploma in Software Development
+- 🐕 Dog Lover *(cough [heres](./assets/dogs.JPG) a picture of my 3)*
+- 🎵 Walking, Cleaning, Coding or Working Out...I'm listening to music.
 
 ## 🗂️ MY WORK
 <details open>
@@ -19,12 +22,12 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
           <br>
           <p>
             <a href="https://github.com/LouieOHagan/My-Furry-Friend-Website">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=My-Furry-Friend-Website&theme=dark" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=My-Furry-Friend-Website&theme=algolia" />
             </a>
           </p>
           <br>
           <a href="https://louieohagan.github.io/My-Furry-Friend-Website/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=0094d0"/>
+            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
           </a>
       </details>
     </li>
@@ -37,12 +40,12 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
           <br>
           <p>
             <a href="https://github.com/LouieOHagan/Simple-Weather-Website">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=Simple-Weather-Website&theme=dark" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=Simple-Weather-Website&theme=algolia" />
             </a>
            </p>
           <br>
           <a href="https://louieohagan.github.io/Simple-Weather-Website/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=0094d0"/>
+            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
           </a>
       </details>
     </li>
@@ -55,12 +58,12 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
           <br>
           <p>
             <a href="https://github.com/LouieOHagan/Covid-Companion-Website">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=Covid-Companion-Website&theme=dark" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=Covid-Companion-Website&theme=algolia" />
             </a> 
           </p>
           <br>
           <a href="https://covid-companion.herokuapp.com/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=0094d0"/>
+            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
           </a>
       </details>
     </li>
@@ -73,12 +76,12 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
           <br>
           <p>
             <a href="https://github.com/LouieOHagan/NNB-E-Commerce-Website">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=NNB-E-Commerce-Website&theme=dark" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=NNB-E-Commerce-Website&theme=algolia" />
             </a> 
           </p>
           <br>
           <a href="https://nnb-store.herokuapp.com/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=0094d0"/>
+            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
           </a>
       </details>
     </li>
@@ -91,12 +94,12 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
           <br>
           <p>
             <a href="https://github.com/LouieOHagan/boutique_ado_v1">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=boutique_ado_v1&theme=dark" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LouieOHagan&repo=boutique_ado_v1&theme=algolia" />
             </a> 
           </p>
           <br>
           <a href="https://boutique-ado-website.herokuapp.com/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=0094d0"/>
+            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
           </a>
       </details>
     </li>
@@ -114,7 +117,7 @@ My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
   <summary><b>Click to Toggle</b></summary>
   <br>
     <a href="https://github.com/LouieOHagan/LouieOHagan">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouieOHagan&hide=html&langs_count=4&theme=dark&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouieOHagan&hide=html&langs_count=4&theme=algolia&layout=compact" />
     </a>
 </details>
 
