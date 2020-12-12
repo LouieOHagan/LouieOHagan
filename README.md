@@ -7,7 +7,7 @@
 My name is Louie O Hagan and I'm a Junior Full Stack Software Developer...
 - 🎓 Graduated with a Distinction from the Code Institute with a Diploma in Software Development
 - 🐕 Dog Lover *(cough [heres](./assets/dogs.JPG) a picture of my 3)*
-- 🎵 Walking, Cleaning, Coding or Working Out...I'm listening to music.
+- 🎵 Walking, Coding or Working Out...I'm listening to music.
 
 ## 🗂️ MY WORK
 <details open>
